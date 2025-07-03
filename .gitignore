@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# VS Code config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Model files
+model/*.keras
+model/*.h5
+model/*.pkl
+
+# Logs and outputs
+*.log
+
+# Python environment files
+pip-log.txt
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Pytest cache
+.pytest_cache/
+
+# FastAPI/Starlette generated files
+instance/
+*.db
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Optional: Exclude model predictions cache or form results
+*.json
+*.csv
+
+# System files
+Thumbs.db
+
