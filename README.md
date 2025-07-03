@@ -3,6 +3,7 @@
 A machine learning-powered API to recommend appropriate dresses based on occasion, country, formality, and cultural context. Built with **FastAPI** and a trained **TensorFlow** model.
 
 Model : https://colab.research.google.com/drive/1MiVA4gJTEfRF4d8c5qznFduASFZYRN9P?usp=sharing
+Data: https://drive.google.com/file/d/1QNRdp77kEjScdcjtLXsGtq0VzGof_uXk/view?usp=sharing
 
 ### 📁 Project Structure
 
